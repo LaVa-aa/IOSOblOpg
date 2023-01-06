@@ -2,8 +2,7 @@
 //  EarthMapView.swift
 //  IOSOblOpg
 //
-//  Created by dmu mac 20 on 11/11/2022.
-//
+
 
 import SwiftUI
 import Foundation

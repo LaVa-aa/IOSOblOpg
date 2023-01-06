@@ -2,8 +2,7 @@
 //  EQEnum.swift
 //  IOSOblOpg
 //
-//  Created by dmu mac 20 on 14/11/2022.
-//
+
 
 import Foundation
 

@@ -2,7 +2,7 @@
 //  EarthQuake.swift
 //  IOSOblOpg
 //
-//  Created by dmu mac 20 on 10/11/2022.
+
 //
 
 import Foundation

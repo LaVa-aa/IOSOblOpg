@@ -2,8 +2,7 @@
 //  AllEarth.swift
 //  IOSOblOpg
 //
-//  Created by dmu mac 20 on 14/11/2022.
-//
+
 
 import SwiftUI
 // her vil jeg gerne implementer all earth
